@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrey!</h1>
 <h3 align="center">a self-taught Dart(Flutter)\C#(Unity/WPF) developer</h3>
-![](https://user-images.githubusercontent.com/54116985/176905724-37af7403-8b70-479b-883c-bb9b1d635e25.gif)
-
+<center><img src="https://github.com/gidrokolbaska/gidrokolbaska/blob/main/code.gif?raw=true" width="10px"></center>
 
 - 🔭 I’m currently working on **Todozoid**
 
