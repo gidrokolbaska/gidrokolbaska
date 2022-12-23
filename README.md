@@ -10,7 +10,6 @@
 
 - 💼 Portfolio: https://gidrokolbaska.github.io/
 
-- ⚡ Fun fact **Currently studying to get a driver's license :D**
 
 
 
