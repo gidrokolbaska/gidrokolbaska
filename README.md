@@ -2,7 +2,7 @@
 <h3 align="center">a self-taught Dart(Flutter)\C#(Unity/WPF) developer</h3>
 <img src="https://github.com/gidrokolbaska/gidrokolbaska/blob/main/code.gif?raw=true">
 
-- 🔭 I’m currently working on **Todozoid**
+- 🔭 Developer of **Todozoid**
 
 - 🌱 I’m currently learning **Dart and Flutter**
 
